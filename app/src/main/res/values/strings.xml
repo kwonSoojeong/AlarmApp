@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlarmApp</string>
+    <string name="onOfftext">알람 끄기</string>
+    <string name="changeAlarmTime">시간 재설정</string>
+</resources>
